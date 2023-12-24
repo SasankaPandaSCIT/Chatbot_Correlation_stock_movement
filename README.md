@@ -56,4 +56,4 @@ Project Two is a collaborative effort to understand and quantify the impact of p
 
 ### Presentation
 To access the presentation on the project; please click on the link below:
-(Presentation)[https://prezi.com/view/7BUjPaLYJDeDBafiEU6o/]
+https://prezi.com/view/7BUjPaLYJDeDBafiEU6o/
