@@ -1,4 +1,4 @@
-# Project Two: Correlation between Sentiment Analysis and Stock Movement
+# Correlation between Sentiment Analysis and Stock Movement
 
 ## Project Overview
 This project aims to explore the correlation between public sentiment, as derived from news articles, and stock market movements. Our team has developed a comprehensive approach to collect, analyze, and interpret data to understand how sentiment reflects and possibly predicts stock prices.
