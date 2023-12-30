@@ -54,7 +54,3 @@ This project aims to explore the correlation between public sentiment, as derive
 
 It is a collaborative effort to understand and quantify the impact of public sentiment on stock markets. Through rigorous analysis and innovative technology integration. We aim to make the results more accurate by integrating more short term and long term analytical features and by better understanding the sentiment scores.
 
-## Presentation
-
-To access the presentation on the project; please click on the link below:
-https://prezi.com/view/7BUjPaLYJDeDBafiEU6o/
